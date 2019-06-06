@@ -1,29 +1,13 @@
-# 009-single-page-playbook
+# Azure Casts #009 - Static Site Soliloquy
 
-## Project setup
-```
-npm install
-```
+Static sites, much like [Hansel](https://www.youtube.com/watch?v=CV_hDyfmEw4), are so hot right now. After years of building server-side web apps, we've figured out that it's a lot faster and cheaper to host if they don't have a server component at all. Who knew? But just how fast and how cheap is it?
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [The Urlist Vue Application](https://github.com/the-urlist/frontend-vue-typescript)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Azure Storage Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage&WT.mc_id=azurecasts-github-buhollan)
 
-### Run your tests
-```
-npm run test
-```
+- [Tutorial: Deploy a static site to Azure](https://code.visualstudio.com/tutorials/static-website/getting-started?WT.mc_id=azurecasts-github-buhollan)
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator/?WT.mc_id=azurecasts-github-buhollan)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Azure Egress Pricing](https://azure.microsoft.com/pricing/details/bandwidth/?WT.mc_id=azurecasts-github-buhollan)
